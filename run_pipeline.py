@@ -1,30 +1,37 @@
-"""Main entrypoint for CADE analysis."""
+"""Ponto de entrada principal para a análise do CADE."""
+
 from pathlib import Path
+
 import pandas as pd
-from analise_cade import preproc, llm_extraction, analysis
+
+from analise_cade import analysis, llm_extraction, preproc
 
 
-def main(input_path: str) -> None:
-    df = preproc.load_data(input_path)
-    df = preproc.filter_votes(df)
+def main(caminho_entrada: str) -> None:
+    """Executa todas as etapas do pipeline."""
 
-    # Placeholder for LLM processing
-    df['condenacao'] = False  # TODO: replace with real extraction
-    df['valor_multa_reais'] = pd.NA
-    df['percentual_faturamento'] = pd.NA
-    df['setor_economico'] = pd.NA
+    dados = preproc.carregar_dados(caminho_entrada)
+    dados = preproc.filtrar_votos(dados)
+    dados = preproc.limpar_colunas(dados)
+    dados = preproc.selecionar_colunas(dados)
 
-    output_dir = Path('output')
-    output_dir.mkdir(exist_ok=True)
+    # Placeholder para processamento via LLM
+    dados["condenacao"] = False  # TODO substituir pela extração real
+    dados["valor_multa_reais"] = pd.NA
+    dados["percentual_faturamento"] = pd.NA
 
-    df.to_excel(output_dir / 'output.xlsx', index=False)
-    kpis = analysis.compute_kpis(df)
-    kpis.to_csv(output_dir / 'relatorio.csv', index=False)
+    pasta_saida = Path("output")
+    pasta_saida.mkdir(exist_ok=True)
+
+    dados.to_excel(pasta_saida / "output.xlsx", index=False)
+    kpis = analysis.calcular_kpis(dados)
+    kpis.to_csv(pasta_saida / "relatorio.csv", index=False)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description='Process CADE data')
-    parser.add_argument('input', help='path to CSV or Excel file')
+
+    parser = argparse.ArgumentParser(description="Processa dados do CADE")
+    parser.add_argument("input", help="caminho para arquivo CSV ou Excel")
     args = parser.parse_args()
     main(args.input)

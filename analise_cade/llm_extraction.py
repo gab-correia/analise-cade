@@ -1,19 +1,14 @@
-"""LLM extraction routines using LangChain and Gemini."""
+"""Extração de informações via LLM (LangChain + Gemini)."""
+
 from typing import Dict
 
 
-def extract_information(document: str) -> Dict:
-    """Placeholder for LLM extraction logic.
+def extrair_informacoes(texto: str) -> Dict:
+    """Extrai campos estruturados a partir do conteúdo do voto.
 
-    Parameters
-    ----------
-    document : str
-        Text content of a CADE vote document.
-
-    Returns
-    -------
-    dict
-        Extracted fields following the expected JSON schema.
+    Esta função deverá integrar o LangChain com o modelo Gemini para produzir um
+    dicionário seguindo o esquema desejado.
     """
-    # TODO: integrate LangChain with Gemini model
+
+    # TODO: integrar LangChain com Gemini
     return {}

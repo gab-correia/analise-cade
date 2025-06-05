@@ -1,25 +1,29 @@
-"""Statistical analysis utilities."""
+"""Utilidades de análise estatística."""
+
 import pandas as pd
 
 
-def compute_kpis(df: pd.DataFrame) -> pd.DataFrame:
-    """Compute required KPIs for the relatorio.csv output."""
-    total = len(df)
-    condenados = df['condenacao'].sum()
-    pct_condenacao = condenados / total * 100 if total else 0
+def calcular_kpis(dados: pd.DataFrame) -> pd.DataFrame:
+    """Gera os indicadores solicitados para o ``relatorio.csv``."""
 
-    media_multa_reais = df['valor_multa_reais'].mean()
-    media_pct_faturamento = df['percentual_faturamento'].mean()
+    total = len(dados)
+    qtd_condenados = dados["condenacao"].sum()
+    percentual_condenacao = (qtd_condenados / total * 100) if total else 0
 
-    return pd.DataFrame({
-        'Metrica': [
-            'Porcentagem de votos condenatorios (%)',
-            'Multa media (R$)',
-            'Percentual medio do faturamento (%)',
-        ],
-        'Valor': [
-            pct_condenacao,
-            media_multa_reais,
-            media_pct_faturamento,
-        ],
-    })
+    media_multa_reais = dados["valor_multa_reais"].mean()
+    media_percentual = dados["percentual_faturamento"].mean()
+
+    return pd.DataFrame(
+        {
+            "Metrica": [
+                "Porcentagem de votos condenatórios (%)",
+                "Multa média (R$)",
+                "Percentual médio do faturamento (%)",
+            ],
+            "Valor": [
+                percentual_condenacao,
+                media_multa_reais,
+                media_percentual,
+            ],
+        }
+    )
