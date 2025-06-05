@@ -120,3 +120,22 @@ Modelagem	scikit-learn, statsmodels
 Dashboard (extra)	streamlit
 Chatbot (extra)	gradio, langchain, openai
 Exportação de Excel/CSV	pandas.to_excel, to_csv
+## Estrutura do Repositório
+
+- `analise_cade/` - Pacote principal com módulos de processamento, extração via LLM, análise e dashboard.
+- `run_pipeline.py` - Script de exemplo que executa as etapas básicas do projeto.
+- `data/` - Pasta para armazenar o arquivo de entrada fornecido pelo professor.
+- `notebooks/` - Análises exploratórias e estudos em Jupyter.
+- `output/` - Arquivos gerados automaticamente (`output.xlsx` e `relatorio.csv`).
+
+### Executando
+
+1. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Rode o pipeline informando o caminho do arquivo de dados:
+   ```bash
+   python run_pipeline.py caminho/do/arquivo.csv
+   ```
+   A linha de leitura contém o comentário `# LINHA DE SELECAO DO INPUT` para facilitar a alteração do caminho caso necessário.
