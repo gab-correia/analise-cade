@@ -1,8 +1,3 @@
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.ipynb_checkpoints
-output/
 .env
 *.csv
