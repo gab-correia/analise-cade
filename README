@@ -1,0 +1,122 @@
+🧾 RESUMO DO PROJETO – CLÍNICA 2
+🎯 Objetivo Geral
+Desenvolver um sistema em Python capaz de:
+
+Ler documentos do CADE (dados em Excel)
+
+Analisar informações sobre condenações, como:
+
+Percentual do faturamento usado como multa
+
+Valores em reais das multas
+
+Gerar estatísticas descritivas, modelos inferenciais e visualizações
+
+Opcional (inovação): Criar dashboards ou chatbot jurídico para uso prático.
+
+🔄 ETAPAS DO PROJETO – PASSO A PASSO
+✅ 1. Entender os Dados
+Você receberá um arquivo Excel com ~10 mil linhas e 64 colunas.
+
+Cada linha representa um documento do CADE.
+
+Nem todos os documentos são de condenação.
+
+É necessário filtrar os documentos relevantes:
+
+Voto
+
+Voto Processo Administrativo
+
+Voto Embargos de Declaração
+
+✅ 2. Filtrar Documentos Válidos
+O sistema precisa identificar:
+
+Se o documento é uma condenação
+
+O valor da multa (em R$) e o percentual sobre o faturamento
+
+Dados do processo (data, setor, empresa, etc.)
+
+✅ 3. Análise Estatística Descritiva
+Com os dados filtrados, gerar estatísticas como:
+
+Média e mediana da multa (R$)
+
+Mediana e histograma do percentual de faturamento
+
+Gráficos: distribuição por setor, ano, tipo de empresa
+
+🧾 Output obrigatório: relatorio.csv com:
+
+% de votos que são de condenação
+
+Média do valor das multas (R$)
+
+Média do % de faturamento aplicado como multa
+
+✅ 4. Modelagem Inferencial
+Criar um modelo estatístico ou de machine learning simples para prever se um caso será condenado com base em variáveis (tipo de setor, tempo de processo, etc.)
+
+Exemplo:
+
+Regressão logística que tenta prever “condenado: sim/não”
+
+✅ 5. Criatividade e Valor Jurídico (Item 3)
+Aqui entra a parte livre e estratégica do projeto.
+
+Você pode criar:
+
+📊 Um dashboard interativo (Streamlit ou Power BI)
+
+🤖 Um chatbot jurídico (Gradio ou LangChain)
+
+📑 Um relatório inteligente com insights para advogados
+
+📌 Um filtro de jurisprudência automatizado
+
+Essa parte vai diferenciar seu grupo nas bancas.
+
+✅ 6. Exportar Arquivos
+O seu código deve gerar:
+
+output.xlsx com todos os dados filtrados e enriquecidos
+
+relatorio.csv com os três KPIs pedidos
+
+✅ 7. Submissão Final
+Até 9/6 às 23h59, você deve entregar no Blackboard:
+
+Um .zip com:
+
+Código fonte (.py ou .ipynb)
+
+Comentário # LINHA DE SELEÇÃO DO INPUT no local onde o Excel é importado
+
+Arquivos auxiliares se necessário
+
+O professor vai rodar seu código com outro Excel (com mesmo formato)
+
+📅 Apresentação e Avaliação
+13/6 – Bancas
+Cada grupo apresenta contra outro
+
+Avaliação baseada em:
+
+Qualidade da análise
+
+Valor prático para a advocacia
+
+Inovação (dashboard/chatbot/etc)
+
+Eficiência (custo, dependências, tempo de execução)
+
+🔧 Ferramentas Recomendadas
+Etapa	Ferramenta Sugerida
+Leitura e filtro dos dados	pandas, openpyxl
+Estatísticas e gráficos	pandas, matplotlib, seaborn
+Modelagem	scikit-learn, statsmodels
+Dashboard (extra)	streamlit
+Chatbot (extra)	gradio, langchain, openai
+Exportação de Excel/CSV	pandas.to_excel, to_csv
