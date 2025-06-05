@@ -36,6 +36,8 @@ def preprocessar_e_chunk(texto, max_caracteres=8000):
     return chunks
 
 
+"""
+TESTE
 # Uso com o arquivo do processo
 with open('texto_teste.txt', 'r', encoding='utf-8') as arquivo:
     texto_processo = arquivo.read()
@@ -43,3 +45,4 @@ with open('texto_teste.txt', 'r', encoding='utf-8') as arquivo:
 resultado = preprocessar_e_chunk(texto_processo)
 
 print(resultado)
+"""
