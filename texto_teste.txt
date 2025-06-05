@@ -1,0 +1,658 @@
+Timbre
+Ministério da Justiça e Segurança Pública - MJSP
+
+Conselho Administrativo de Defesa Econômica - CADE
+
+SEPN 515, Conjunto D, Lote 4, Edifício Carlos Taurisano, - Bairro Asa Norte, Brasília/DF, CEP 70770-504
+Telefone: (61) 3221-8472 - www.gov.br/cade
+  
+
+Processo Administrativo nº 08700.004558/2019-05 (Apartado de Acesso Restrito nº 08700.004559/2019-41)
+
+Representante: CADE ex officio
+
+Representados(as): Bernd Brünig, Faustino Luigi Minchella e José Angel Viani Barroyeta 
+
+Relator(a): Conselheiro Carlos Jacques Vieira Gomes 
+
+VOTO DO RELATOR - CONSELHEIRO-RELATOR CARLOS JACQUES VIEIRA GOMES
+
+VERSÃO DE ACESSO PÚBLICO
+
+Ementa:
+
+Processo Administrativo. CARTEL de peças automotivas. mercado independente de peças de reposição (“IAM”). mercado peças originais (“OEM”). PESSOAS FÍSICAS. DESMEMBRAMENTO. PARECER DA SUPERINTENDÊNCIA-GERAL PELA  CONDENAÇÃO parcial.  PARECER DA PROCURADORIA FEDERAL ESPECIALIZADA PELA CONDENAÇÃO parcial. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELA CONDENAÇÃO  PARCIAL. revelia. necessidade de corroboração de declarações de compromissários e lenientes. VOTO PELA CONDENAÇÃO PARCIAL, ACOMPANHANDO A PFE/CADE. MULTA. 
+
+A confissão decorrente da revelia é ficta, pois não há confissão pessoal do Representado, somente uma presunção decorrente da ausência de contestação dos fatos apresentados na peça inicial. A constatação de revelia significa automática condenação dos Representados. É dever do julgador apreciar as provas apresentadas nos autos, com o fito de verificar se os elementos probatórios são capazes de corroborarem os fatos tidos como verdadeiros em decorrência da revelia.
+
+Necessidade de aplicação de critérios minimamente estabilizados na doutrina penal em relação à regra de corroboração de provas. Jurisprudência do STF. Documentos ou relatos unilaterais apresentadas isoladamente, sem corroboração por outras provas diretas ou indiciárias, são reiteradamente consideradas como insuficientes pelo Tribunal do Cade para comprovar a materialidade da conduta anticompetitiva ou a participação do Representado na conduta
+
+A mera citação em e-mails não é suficiente para provar a participação no conluio. Haveria dúvidas razoáveis quanto à participação mesmo de destinatário da mensagem. A menção do nome do Representado, feita por terceiros, não é suficiente para concluir, de maneira indubitável, que o Representado participou ativamente da conduta anticompetitiva.
+
+Apesar de não existir uma imunidade antitruste para sindicatos e associações de classe, não se pode partir da premissa que toda e qualquer discussão no âmbito de um sindicato ou associação terá caráter anticompetitivo. Necessário aferir as provas do caso concreto.
+
+Há situações em que será aceitável que a multa imposta em sede de Processo Administrativo seja menor do que a contribuição pecuniária paga pelo compromissário em sede de Termo de Compromisso de Cessação. Isso pode ocorrer quando há a imposição de sanções não-pecuniárias ao representado, de forma que haveria uma forma de “compensação” da diferença dos valores com a imposição de sanções acessórias do tipo não-pecuniária.
+
+Condenação parcial com imposição de multa pecuniária.
+
+ 
+
+voto
+
+1. SÍNTESE DO RELATÓRIO 
+
+O Relatório completo do caso foi juntado aos autos em 16.05.2024 (SEI 1388013), conforme previsão regimental para tanto. 
+
+Trata-se de Processo Administrativo com o objetivo de apurar potenciais condutas anticompetitivas no mercado de peças automotivas, voltadas ao mercado independente de peças de reposição (“IAM”), bem como ao mercado peças originais (“OEM”). As condutas teriam ocorrido entre 2004 e 2012. 
+
+O presente Processo Administrativo é fruto de desmembramento do Processo Administrativo nº 08700.006065/2017-30. O desmembramento foi necessário devido a impossibilidade de notificação dos Representados à época. O desmembramento foi determinado pelo Despacho SG n. 1172/2019. 
+
+O Processo Administrativo originário se iniciou com a celebração do Acordo de Leniência n. 19/2017, tendo como signatária a Mahle Metal Leve S.A. e Mahle GmbH, bem como alguns de seus funcionários e ex-funcionários. O Acordo de Leniência trouxe indícios e documentos que implicariam os Representados em condutas anticompetitivas no mercado de venda de peças de reposição (“IAM”) e no mercado de vendas de peças originais (“OEM”).
+
+Naqueles autos, foram incluídas no polo passivo as seguintes pessoas jurídicas: Federal Mogul Sistemas Automotivos Ltda., KSPG Automotive Brazil Ltda., Mahle Metal Leve S.A., MAHLE GmbH; e as seguintes pessoas físicas: Alex Friedmann, Antonio Carlos Coelho da Silva, Antônio Carlos Cunha Bueno, Bernd Brünig, Claus Henning Bernhard Paulo von Heydebreck, Claus Hoppen, Daniele Ferrari de Carli Bianchi, Dieter Oskar Moser, Edvaldo Ricardo Selidonio de Souza, Faustino Luigi Minchella, Fernando Del Nero Rocha, Gerson Silva Prado, Horst Fischer, José Ademir de Souza, José Angel Viani Barroyeta, José Carlos Marques Brito, José Carlos Massari Jr., José Luis Seixas Ferreira, Josemar Ribas, Julio Ricardo Albertin, Leandro José Moretto, Lincoln Fuji, Luis Antônio Silva Lipay, Mônica Maria Marques Suzigan, Robson de Souza Rezende e Thomas José Carlos Klein[1] . 
+
+Ainda, foram celebrados e homologados Termos de Compromisso de Cessação com os seguintes representados: Jose Ademir de Souza, Dieter Oskar Moser, Federal-Mogul Sistemas Automotivos Ltda., Lincoln Fuji, Horst Werner Georg Fischer, Gerson Prado, KSPG Automotive Brazil Ltda., Claus Henning Bernhard, Paulo von Heydebreck, Luis Antonio Silva Lipay, Monica Maria Marques Suzigan e Jose Luiz Seixas Ferreira. 
+
+2. DAS NOTIFICAÇÕES E REVELIA DOS REPRESENTADOS 
+
+A tabela abaixo resume os procedimentos adotados para a devida notificação dos Representados 
+
+Representados 
+
+Notificação (nº SEI) 
+
+Entrega da Notificação (data / nº SEI) 
+
+Defesas Apresentadas (data / nº SEI) 
+
+Bernd Brünig 
+
+Ofício 2864/2022 (SEI 1047846) 
+
+12/07/2022 - Edital 
+
+(SEI 1091971) 
+
+Não apresentou 
+
+Faustino Luigi Minchella 
+
+Notificação 124/2022 (SEI 1036355) 
+
+23/03/2022 
+
+(SEI 1048507) 
+
+Não apresentou 
+
+José Angel VIani Barroyeta 
+
+Notificação 125/2022 (SEI 1036358) 
+
+25/03/2022 
+
+(SEI 1048509) 
+
+Não apresentou 
+
+Como se depreende da tabela, todos os Representados foram devidamente notificados, seja por meio de ofícios enviados pela Superintendência-Geral, seja por meio de Edital, nos termos do § 2º do art. 70 da Lei n. 12.529/2011, bem como do art. 58 do Regimento Interno do Cade. 
+
+Conforme demonstrado na tabela acima - e constatado na Nota Técnica 131/2022 (SEI 1132193) - os Representados não apresentaram defesa após suas notificações. Dessa forma, a consequência jurídica é a declaração da revelia dos Representados. De acordo com o art. 71 da Lei n. 12.529/2011:  
+
+Art. 71. Considerar-se-á revel o representado que, notificado, não apresentar defesa no prazo legal, incorrendo em confissão quanto à matéria de fato, contra ele correndo os demais prazos, independentemente de notificação. 
+
+Parágrafo único. Qualquer que seja a fase do processo, nele poderá intervir o revel, sem direito à repetição de qualquer ato já praticado. 
+
+Sendo assim, constatada a ausência de defesa, declaro a revelia dos Representados, operando contra eles todos os efeitos legais de tal declaração. 
+
+Sobre a revelia, cabem aqui dois pontos. 
+
+Primeiro, a decretação da revelia não representa qualquer forma de supressão do direito de defesa dos Representados. Apresentar defesa é um ônus do Representado e sua ausência acarreta a decretação de revelia. Poder-se-ia somente cogitar de nulidade processual caso as notificações não tivessem ocorrido da maneira adequada e disposta em lei[2] . Entretanto, aqui, todas as notificações foram devidamente realizadas, inclusive aquela por Edital. Assim, torna-se indiscutível a decretação da revelia. 
+
+O segundo ponto a ser abordado são os efeitos da revelia. O art. 71 da Lei de Defesa da Concorrência estabelece que a revelia tem como consequência a confissão do representado quanto à matéria de fato. De forma semelhante, o art. 344 do Código de Processo Civil dispõe que “se o réu não contestar a ação, será considerado revel e presumir-se-ão verdadeiras as alegações de fato formuladas pelo autor.”  
+
+A confissão decorrente da revelia é ficta, pois não há confissão pessoal do Representado, somente uma presunção decorrente da ausência de contestação dos fatos apresentados na peça inicial. Por sua vez, o CPC/15 elenca, em seu art. 345, quatros situações específicas em que os efeitos da revelia não se produzem. 
+
+Relevante para o presente processo administrativo é o inciso IV do art. 345, o qual dispõe que os efeitos da revelia não se produzem caso “as alegações de fato formuladas pelo autor forem inverossímeis ou estiverem em contradição com a prova constante dos autos.”  
+
+O que se extrai do dispositivo processual acima é que, em casos de revelia, a vitória do autor não é automática[3] . Os fatos, ainda que tomados como verdade, devem encontrar guarida no direito. Conforme explicado por Fredie Didier Jr.: 
+
+O simples fato da revelia não pode tornar verossímil o absurdo: se não houver o mínimo de verossimilhança na postulação do autor, não será a revelia que lhe conferirá a plausibilidade que não possui. Se a postulação do autor não vier acompanhada do mínimo de prova que a lastreie, não se poderá dispensar o autor de provar o que alega pelo simples fato da revelia. A revelia não é fato com dons mágicos[4] . 
+
+No presente processo administrativo, o autor é o próprio Cade. A constatação de revelia não pode implicar a automática condenação dos Representados, como visto acima. É dever do julgador – aqui, do Tribunal do Cade – apreciar as provas apresentadas nos autos, com o fito de verificar se os elementos probatórios são capazes de corroborarem os fatos tidos como verdadeiros em decorrência da revelia. É o que se fará neste voto quando do momento da análise de individualização da conduta e das provas relativas a cada Representado. 
+
+3. DA NOTA TÉCNICA DA SUPERINTENDÊNCIA-GERAL DO CADE
+
+A Superintendência-Geral apresentou suas conclusões sobre o caso na Nota Técnica n. 169/2023/CGAA6/SGA2/SG/CADE, assinada pelo Superintendente-Geral em 20 de novembro de 2023. 
+
+A Nota Técnica da SG faz importantes esclarecimentos acerca dos mercados envolvidos na suposta conduta de cartelização e que merecem maior atenção neste momento. Os esclarecimentos são indispensáveis para se compreender a dinâmica do suposto cartel e como ele se perpetrou ao longo dos anos, bem como o papel que os Representados tiveram em sua consecução. 
+
+Citando o voto do Conselheiro-Relator Maurício Oscar Bandeira Maia no Processo Administrativo originário n. 08700.006065/2017-30[5] , a SG esclarece que o cartel ocorreu entre os anos de 2004 e 2012, envolvendo os maiores fabricantes nacionais dos mercados de peças automotivas, pistões de motor, bronzinas, camisas, pinos, bielas, porta anéis, anéis, juntas de vedação e anéis de pistões de motor, de maneira conjunta ou separada. 
+
+As condutas ocorreram tanto no mercado independente de peças de reposição (aftermarket ou IAM), como no mercado de peças originais (original equipment manufacturer ou OEM). 
+
+3.1 DA DINÂMICA E FASES DO CARTEL
+
+A análise da dinâmica do cartel revela um intricado esquema de acordos ilícitos entre empresas-chave do mercado de peças automotivas, centrado em práticas como fixação de preços, divisão de clientes e compartilhamento de informações sensíveis. Esses acordos tiveram um impacto significativo nos distribuidores de autopeças e nas vendas destinadas às montadoras de veículos no mercado de OEM.  
+
+As empresas envolvidas no conluio, notadamente a Federal Mogul Sistemas Automotivos Ltda. (Federal Mogul), Mahle Metal Leve S.A. (MML) e KSPG Automotive Brazil Ltda. (KSPG), coordenaram suas condutas ao longo de diferentes fases, cada uma marcada por estratégias específicas e interações distintas entre os participantes. 
+
+As fases do cartel, conforme proposto pela Superintendência Geral, podem ser divididas em: [ACESSO RESTRITO] 
+
+[ACESSO RESTRITO]
+
+Como será detalhado a seguir, a participação dos representados teria ocorrido na Fase 2 e Fase 3 IAM, bem como na Fase 2 OEM. 
+
+3.2 DAS CONCLUSÕES DA SUPERINTENDÊNCIA-GERAL
+
+A Superintendência-Geral opinou pela condenação dos Representados Faustino Luigi Minchella e José Ángel Viani Barroyeta, nos termos do art. 20, incisos I a IV, bem como do art. 21, incisos I, III, VIII e X da Lei n. 8.884/1994, correspondentes ao art. 36, incisos I a IV, bem como seu § 3º, inc. I, alíneas (a), (b), (c) e (d) e inciso VIII da Lei n. 12.529/2011, recomendando-se a aplicação de multa por infração à ordem econômica, e pelo arquivamento dos autos em relação ao Representando Bernd Brünig, por insuficiência de provas. 
+
+4.DO PARECER DA PROCURADORIA FEDERAL ESPECIALIZADA JUNTO AO CADE  (“PFE/CADE”)  
+
+Em 09.02.2024, este Gab-1 expediu despacho ordinatório (SEI 1345771) à PFE/Cade, para emissão de parecer jurídico, solicitando manifestação expressa sobre os seguintes itens: 
+
+1) [ACESSO RESTRITO]
+
+2) Em relação ao representado José Angel Viani Barroyeta, as provas apresentadas na Nota Técnica n. 169/2023 (1310913) dizem respeito a e-mails em que o nome do Representado é mencionado, inclusive por signatários do Acordo de Leniência, ou relatos de terceiros sobre a participação dele em reuniões com temas potencialmente anticompetitivos. Peço análise a fim de verificar se as provas apresentadas pela SG são suficientes para corroborar a narrativa apresentada pelos Signatários quanto à participação do Representado na conduta anticompetitiva, bem como se as provas estão em conformidade com o padrão de provas adotado por este Conselho para condenação em carteis.  
+
+3) Em relação à dosimetria de multa apresentada na referida Nota Técnica, em especial quanto à análise das circunstâncias agravantes dispostas no art. 45 da Lei nº 12.529/2011, seja feita avaliação de sua adequação em relação ao Guia de Dosimetria de Multas de Cartel, dado que não há referências a ele no corpo da Nota Técnica. 
+
+ 
+
+A PFE/Cade apresentou sua resposta ao ofício em seu Parecer n. 13/2024/CGEP/PFE-CADE/PGF/AGU, datado de 08 de abril de 2024 (SEI 1370760). 
+
+Em seu Parecer, a PFE/Cade rememora o andamento processual do PA originário que demonstrou restar comprovada a existência de cartel no mercado de peças automotivas, por meio de acordos de fixação de preços, divisão de clientes e trocas de informações concorrencialmente sensíveis entre as empresas que participaram do conluio. Além disso, a PFE atesta a regularidade procedimental do processo administrativo, com o devido respeito às formalidades necessárias para a garantia dos direitos dos representados. 
+
+O Parecer da Procuradoria Federal Especializada também traz ponderações sobre a necessidade de elementos de corroboração das afirmações trazidas aos autos pelos lenientes e compromissários de TCC. O relato de colaboradores nunca deve ser tomado como prova inequívoca da existência de certa conduta, mas sim como meio de obtenção de provas. Para embasar eventual decisão de condenação, o julgador deve identificar provas que corroborem o relato dos colaboradores.  
+
+Não poderia ser diferente. Tanto o leniente quanto o compromissário de TCC possuem incentivos para fornecer a maior quantidade possível de fatos e nomes para a autoridade, com o objetivo de cumprir com a necessidade de contínua colaboração, de acordo com o art. 86, caput e inciso II, da Lei de Defesa da Concorrência.  
+
+O Acordo de Leniência no âmbito do Sistema Brasileiro de Defesa da Concorrência guarda similitudes com a colaboração premiada, prevista na Lei nº 12.850/2013. O art. 3º-A de tal lei deixa claro que o acordo de colaboração premiada é meio de obtenção de prova, e não prova em si.  
+
+Sobre o tema, a PFE colaciona entendimento do Supremo Tribunal Federal no âmbito da Ação Penal nº 1.003/DF, no qual o Ministro-Relator Edson Fachin deixou claro que “os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear juízo condenatório.”  
+
+O Parecer da PFE passa então a analisar as provas relacionadas a cada um dos representados. As principais provas apresentadas sobre a participação dos representados no cartel são trocas de e-mail e agendamentos de reuniões que foram apresentados como provas documentais pelos lenientes em anexo ao histórico de conduta principal, além dos próprios relatos dos colaboradores   
+
+4.1 DAS CONCLUSÕES DA PROCURADORIA FEDERAL ESPECIALIZADA
+
+Após a análise dos elementos probatórios disponibilizados nos autos, a Procuradoria Federal Especializada junto ao Cade opinou pela condenação do representado Faustino Luigi Minchella nos termos do art. 20, incisos I a IV, c/c o art. 21, incisos I, II, III e IV, da Lei n. 8.884/1994, correspondentes ao art. 36, incisos I a IV, c/c § 3º, I, (a), (b), (c) e incisos II e III, da Lei nº 12.529/2011 e o arquivamento do processo administrativo em relação aos representados José Angel Viana Barroyeta e Bernd Brünig. 
+
+Insta ressaltar que a PFE divergiu da SG em relação ao representado José Angel Viana Barroyeta. 
+
+5.DO PARECER DO MINISTÉRIO PÚBLICO FEDERAL JUNTO AO CADE 
+
+ 
+
+O Ministério Público Federal junto ao Cade (“MPF/Cade”) apresentou seu Parecer nº 09/2024/WA/MPF/CADE em 16.05.2024 (SEI 1388233). Este Gab-1 solicitou ao MPF manifestação expressa sobre os mesmos quesitos que haviam sido formulados à PFE/Cade. 
+
+De início, o MPF/Cade opina pela regularidade formal do processo administrativo, não apresentando vícios formais, estando devidamente atendidos os pressupostos do devido processo legal, notadamente no que se refere ao exercício da ampla defesa e do contraditório. Também atestou a regular notificação dos representados e o fato de que o prazo para defesa transcorreu in albis. 
+
+Sobre a materialidade da conduta, o MPF/Cade aponta que esta já foi reconhecida no âmbito do Processo Administrativo nº 08700.006065/2017-30[6] , no qual “as provas coligidas aos autos demonstram a existência de comportamento concertado com o objetivo de impedir a livre concorrência no mercado independente de peças de reposição e de peças originais.” (SEI 0864940).
+
+ Especificamente sobre o padrão probatório em carteis, o Parquet aponta que qualquer meio de prova pode eventualmente lastrear um juízo condenatório e “mesmo um único item de evidência, ou evidência completamente circunstancial, dependendo do contexto e das circunstâncias específicas, pode ser suficiente para atender ao padrão.” Além disso, no que se refere ao uso de relatos dos colaboradores, o MPF/Cade aponta que não pode ser o fundamento exclusivo de condenação, mas as provas apresentadas por eles podem ser suficientes à condenação. Assim, de acordo com o Parecer do Parquet,  
+
+40. Ademais, importa ressaltar que, embora a corroboração do relato de um colaborador seja medida que se impõe para a validação das informações apresentadas no âmbito de um Acordo de Leniência, não há exigência legal para que cada detalhe da declaração prestada seja individualmente corroborado. O grau de corroboração necessário para comprovar um fato específico mencionado em uma declaração de colaborador deve ser aferido à luz da credibilidade geral do relato apresentado. Nesse contexto, evidências adicionais, tais como relatórios, anotações ou trocas de e-mails contemporâneos ao período da conduta anticompetitiva, quase sempre desempenham papel crucial para a robustez da corroboração. É possível, ademais, no Direito Concorrencial, a corroboração de uma declaração de colaborador por meio de outra declaração de mesma natureza.  
+
+ 
+
+O Parecer passa então a analisar a conduta de cada um dos três representados. 
+
+5.1 DAS CONCLUSÕES DO MINISTÉRIO PÚBLICO FEDERAL
+
+No que tange à conduta de Faustino Luigi Minchella, o MPF/Cade conclui que o conjunto probatório apresentado é robusto e capaz de atestar que o Representado foi partícipe ativo do cartel, atuando diretamente em reuniões anticompetitivas, participando do monitoramento e do enforcement do acordo colusivo. De acordo como MPF, o conjunto de evidências é convergente entre si e a análise da SG não se baseou somente em relatos dos lenientes. O Parquet, assim, acompanha integralmente a posição da Superintendência-Geral, opinando pela condenação de Minchella pelas infrações previstas no artigo 20, incisos I a IV, e artigo 21, incisos I, III, VIII e X, da Lei 8.884/94 e artigo 36, incisos I a IV c/c o § 3º, inciso I, alíneas “a”, “b”, “c” e “d”, e inciso VIII, da Lei nº 12.529/2011. 
+
+Quanto à conduta de José Angel Viani Barroyeta, o MPF concluiu que as provas carreadas aos autos seriam suficientes para demonstrar a ciência e a participação de Barroyeta na conduta anticompetitiva. Dessa forma, convergindo com a SG e discordando da posição exarada pela PFE/Cade, o Parquet opinou pela condenação de Barroyeta pela prática de infração à Ordem Econômica nos termos do artigo 20, I a IV, e artigo 21, incisos I, III, VIII e X, da Lei nº 8.884/1994 e artigo 36, incisos I a IV c/c § 3º, inciso I, alíneas “a”, “b”,“c” e “d”, e inciso VIII, da Lei nº 12.529/2011. 
+
+Por fim, o MPF opinou pelo arquivamento do feito em relação a Bernd Brünig, seguindo tanto a recomendação da SG/Cade e da PFE/Cade, por insuficiência de provas para embasar o juízo condenatório. 
+
+Quadro 1 
+
+Resumo dos Pareceres 
+
+Representado 
+
+SG/Cade 
+
+PFE/Cade 
+
+MPF/Cade 
+
+Faustino Luigi Minchella 
+
+Condenação 
+
+Condenação 
+
+Condenação 
+
+Jose Angel Viani Barroyeta 
+
+Condenação 
+
+Arquivamento 
+
+Condenação 
+
+Bernd Brünig 
+
+Arquivamento 
+
+Arquivamento 
+
+Arquivamento 
+
+ 
+
+DO MÉRITO 
+
+Ponderações sobre o Padrão Probatório e a Necessidade de Corroboração  
+
+ 
+
+Mais uma vez este Tribunal se vê frente a uma investigação de cartel na qual é essencial debater e buscar estabelecer balizas para o padrão probatório a ser adotado pela autoridade, particularmente em casos envolvendo somente pessoas físicas. 
+
+Como se verá mais detalhadamente na seção a seguir, muitos dos elementos de prova apresentados como suposta comprovação da participação dos Representados no conluio tem origem no relato de signatários de Acordo de Leniência ou de compromissários de Termos de Compromisso de Cessação com o Cade. O desafio é, portanto, verificar se há elementos de provas adicionais capazes de corroborar os relatos dos lenientes ou dos compromissários. 
+
+No recente julgamento do Processo Administrativo nº 08700.009165/2015-56 (“Cartel dos Hidrômetros”)[7] , o CADE explorou com muita acuidade o tema. O Relator, Conselheiro Victor Oliveira Fernandes, trouxe ao voto, inclusive, decisão do Supremo Tribunal Federal sobre o tema no âmbito do Inquérito 4074[8] . Transcrevo aqui parte da ementa do acórdão exarado pelo STF: 
+
+(...) 
+
+10. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória.  
+
+11. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti.  
+
+12. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria.  
+
+13. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação. 
+
+14. No caso concreto, faz-se referência a documentos produzidos pelos próprios colaboradores, a exemplo de anotações, registros em agenda eletrônica e planilhas de contabilidade informal. A jurisprudência da Corte é categórica em excluir do conceito de elementos de corroboração documentos elaborados unilateralmente pelo próprio colaborador. Precedentes. 
+
+15. Demais registros colhidos no decorrer das investigações, por si sós, não comprovam a materialidade dos delitos imputados aos acusados. Quanto muito possibilitam inferências e ilações no sentido de que os acusados mantinham algum contato, ou que fizeram deslocamentos mencionados pelos colaboradores, mas não bastam para tornar estreme de dúvidas a materialidade especificamente das condutas criminosas imputadas aos denunciados. 
+
+ 
+
+Naquela ocasião, o Supremo Tribunal Federal assentou (i) a imprestabilidade de documentos elaborados unilateralmente pelo colaborador como meio de corroboração dos relatos feitos pelo colaborador; e (ii) a impossibilidade de condenação com base em colaboração “cruzadas” de colaboradores.  
+
+No caso concreto do Cartel dos Hidrômetros, o CADE propôs a aplicação de critérios minimamente estabilizados na doutrina penal em relação à regra de corroboração de provas. Tais critérios podem ser aplicados de forma análoga ao processo administrativo sancionador do Cade, mormente em casos de cartel, conduta que também configura crime, de acordo com o art. 4º da Lei nº 8.137/1990 (Lei de Crimes contra a Ordem Tributária, Econômica e contra as Relações de Consumo). Os critérios, resumidamente, são: 
+
+I. Conformidade da prova com o relato do colaborador. A força probatória do documento unilateral depende também da profundidade, precisão e coerência da narrativa do colaborador. 
+
+II. Independência. Os meios de prova devem ser distintos. Se a evidência principal é um testemunho, a evidência corroborativa não deve depender da mesma fonte. 
+
+III. Auxílio na demonstração de um ponto controvertido. A evidência corroborativa deve ajudar a provar um ponto específico que está sendo contestado pelas partes. 
+
+Importante ressaltar que o voto do Relator, pelo arquivamento da investigação em face dos Representados que não celebraram TCC ou leniência com o Cade, foi acompanhado pela unanimidade dos membros do Tribunal Administrativo do Cade, o que torna o precedente fonte de jurisprudência a ser observado em futuros casos.
+
+A questão sobre corroboração de relatos também foi expressamente abordada pelo Guia de Recomendações Probatórias para Propostas de Acordo de Leniência com o Cade, editado em setembro de 2021. Segundo o Guia, documentos ou relatos unilaterais são exemplos de provas que, apresentadas isoladamente, sem corroboração por outras provas diretas ou indiciárias, são reiteradamente consideradas como insuficientes pelo Tribunal do Cade para comprovar a materialidade da conduta anticompetitiva ou a participação do Representado na conduta. O Anexo VI do Guia traz exemplos de provas consideradas insuficientes quando apresentadas isoladamente, bem como os respectivos casos em que foram analisadas. 
+
+Com isto em mente, e reconhecendo a necessidade de o Tribunal do Cade buscar, sempre que possível, o respeito a seus precedentes, revestindo a atividade da autoridade de maior previsibilidade e segurança jurídica, seguirei, na análise dos elementos de prova do presente caso, as diretrizes propostas no caso do Cartel de Hidrômetros.
+
+Individualização das Condutas e das Provas de cada Representado 
+
+a)Faustino Luigi Minchella 
+
+Faustino Luigi Minchella atuou como Diretor Administrativo da Divisão do Mercado Independente de Peças de Reposição (IAM) da KSPG Automotive Brazil Ltda. entre 2006 e 2010. De acordo com as evidências disponíveis nos autos, a participação de Minchella no conluio teria ocorrido no mercado IAM durante a Fase 2, entre janeiro de 2007 e outubro de 2008, e durante a Fase 3, entre novembro de 2008 e dezembro de 2010. 
+
+Todos os elementos probatórios colacionados aos autos como comprovação da participação de Minchella na conduta são originários do Acordo de Leniência ou de Termo de Compromisso de Cessação. A tabela abaixo resume tais elementos: 
+
+ 
+
+Número 
+
+Elemento Probatório 
+
+Origem 
+
+Descrição 
+
+1 
+
+E-mail de 05/12/2007 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mail que menciona o nome de Minchella como participante de reunião agendada em 13/12/07 com Claus Hoppen da Mahle. 
+
+2 
+
+E-mail de 17/01/2008 
+
+TCC firmado entre o Cade e a empresa KSPG 
+
+E-mail enviado a Minchella por José Ademir de Souza (Gerente de Vendas da KSPG) sobre possível cooperação com a Federal Mogul no aftermarket. 
+
+3 
+
+E-mail de 24/03/2008 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+Agendamento de reunião para o dia 02/04/08 entre Minchella e representantes da Mahle. 
+
+4 
+
+E-mail de 07/04/2008 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mail detalhando os temas debatidos na reunião do dia 02/04/08. É expressamente mencionado que a análise concorrencial dos termos discutidos não seria colocada em ata. 
+
+5 
+
+E-mail de janeiro de 2009 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+Troca de e-mails entre representantes da Mahle em que se menciona o nome de Minchella. 
+
+6 
+
+E-mail de 25/03/2009 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+Pauta de reunião entre os Srs. Claus, Edvaldo e Antonio (Mahle) e Lipay, Minchella e Leandro (KSPG). Da pauta constava o tópico "fornecimento" e uma lista de peças automotivas. 
+
+7 
+
+E-mail de 27/03/2009 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mail encaminhado a Minchella com diferenças de preços entre Mahle e KSPG. Compartilhamento de listas de preços e tabela comparativa entre as empresas. 
+
+8 
+
+E-mail de 27/04/2009 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mail encaminhado a Minchella pela MML afirmando que os preços da KSPG estavam cerca de 25% menores que os da MML, contrariando informação compartilhada em reunião. 
+
+9 
+
+E-mail de 12/05/2009 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mails internos entre representantes da MML indicando que a KSPG não estaria cumprindo os acordos de preços e a necessidade de entrar em contato com Minchella. 
+
+10 
+
+E-mail de 25/05/2009 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mail interno da MML sobre agendamento de reunião com Minchella para debater possível aumento de preços. 
+
+11 
+
+E-mail de 15/06/2009 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mail enviado a Minchella confirmando reunião com representantes da MML. 
+
+12 
+
+E-mail de 10/02/2010 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+Menção ao nome de Minchella em e-mail interno de representantes da MML. 
+
+13 
+
+E-mail de 01/03/2010 
+
+Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+
+E-mail atestando contatos telefônicos entre participantes de empresas concorrentes e a ciência de Minchella sobre tais comunicações. 
+
+ 
+
+Sendo assim, é indispensável que seja feita a análise de cada elemento de prova e também a verificação se há outros elementos de prova capazes de corroborar os relatos dos lenientes e compromissários. 
+
+De início, destaco os elementos de prova que considero mais graves e capazes de provar a participação do Representado Faustino Luigi Minchella no conluio. São os elementos de prova acima identificados com a numeração 4, 7, 8 e 13. 
+
+A prova 4 da tabela acima diz respeito a e-mail interno enviado por Edvaldo de Souza (representante da Mahle) a outros funcionários da mesma empresa. No e-mail, Edvaldo de Souza faz um relato da reunião realizada entre representantes da Mahle e da KSPA, incluindo o Representado Faustino Luigi Minchella. Em sua mensagem, Edvaldo de Souza relata “novos desenvolvimentos” na relação comercial com a KSPA e o compromisso da KSPA em não vender pistões para a Federal Mogul, empresa concorrente. Mais relevante do e-mail, entretanto, é a frase final da mensagem, a qual expressa diz que “análise concorrencial não será colocado em ATA”.  
+
+Parece aqui haver não somente o animus em cometer a infração à ordem econômica a partir dos encontros entre concorrentes, mas também a consciência de que a conduta poderia ser sancionada pela autoridade de defesa da concorrência. O cuidado expresso em não registrar em ata “análise concorrencial” parece não deixar dúvidas quanto ao caráter anticompetitivo da reunião e a precaução dos agentes envolvidos em não produzirem provas sobre a conduta. 
+
+Entendo que o e-mail mencionado é capaz de corroborar o relato dos lenientes no sentido de estabelecer que o representado Minchella participou das reuniões mencionadas. O elemento de prova número 3 também auxilia neste sentido. 
+
+A prova número 7 da tabela diz respeito a e-mail datado de 27 de março de 2009, enviado por Edvaldo de Souza (Mahle) a Faustino Minchella e Luis Lipay (ambos da KSPG), com cópia para Claus Hoppen (Mahle). No e-mail, Edvaldo de Souza afirma ter recebido lista de preços e de descontos praticados pela KSPG na regional Paraná que seriam diferentes daqueles que teriam sido informados por telefone e em reunião por Minchella e Lipay. Além disso, o e-mail demonstra a perplexidade dos representantes da Mahle com as diferenças de preços praticadas, expressadas na frase “Assustam as diferenças!!!” presente na mensagem de e-mail.  
+
+A prova número 8 da tabela traz nova mensagem de e-mail enviada por Edvaldo de Souza (Mahle) a Faustino Minchella e Luis Lipay (KSPG). Nela, Souza expressa seu descontentamento com a incongruência de informações repassadas pelos representantes da KSPG. De acordo com Souza, a pesquisa interna da Mahle constatou que a KSPG estaria comercializando pistões com anéis e válvulas na linha de moto 25% (vinte e cinco por cento) abaixo do valor da Mahle. Souza expressamente pede que o tema seja tratado com atenção, “pois contraria a informação que deram na nossa última reunião.” Na mesma mensagem, Edvaldo de Souza compartilha os preços dos pistões com anéis da Mahle e os compara com o valor praticado pela KSPG. 
+
+Por fim, a prova número 13 relata contatos telefônicos mantidos entre Faustino Luigi Minchella e Claus Hoppen (Mahle). Tais conversas telefônicas estão registradas em e-mail enviado por Luís Lipay (KSPG) a Minchella em 12 de fevereiro de 2010 e a resposta enviada pelo próprio Minchella a Lipay em 1º de março de 2010. Os e-mails, reproduzidos abaixo, versam expressamente sobre fixação de preços e mecanismos para impedir a entrada no mercado de um concorrente específico.  
+
+ 
+
+[ACESSO RESTRITO] 
+
+ 
+
+Entendo que os elementos probatórios de número 4, 7, 8 e 13 na tabela são suficientes para comprovar a participação do representando Faustino Luigi Minchella na conduta anticompetitiva. Tais provas não se baseiam somente no relato de lenientes e compromissários, mas há elementos documentais corroborativos suficientes para demonstrar a participação ativa de Minchella na conduta. 
+
+A constante troca de e-mails com representante da Mahle e agendamento reiterado de reuniões demonstra que sua participação não foi esporádica. As provas carreadas aos autos demonstram que Minchella possuía total conhecimento da conduta anticompetitiva e atuava como representante da KSPG no acordo. As provas 4 e 13 são especialmente relevantes para tal conclusão. 
+
+Sobre os demais elementos de prova listados na tabela, entendo que eles não possuem a mesma força probatória que os elementos 4, 7, 8 e 13. São documentos, em sua maioria, que apenas mencionam o nome do Representado Faustino Luigi Minchella. Tais documentos, considerados individualmente, não seriam aptos a lastrear decisão condenatória. Todavia, conforme minha manifestação em Voto-Vogal no Cartel dos Hidrômetros (SEI 1344481)[9] ,  
+
+5. Registros de contatos telefônicos sem conhecimento do assunto debatido, reuniões sem pauta definida ou registro em ata, bem com o mero fato de alguém ter sido copiado em e-mail sem conteúdo anticompetitivo não foram considerados, na presente situação, provas indiretas suficientes para embasar uma condenação. Todavia, isto não deve ser interpretado como regra absoluta para a utilização de provas indiretas pelo Cade. 
+
+6.      Conforme mencionado no voto do Relator, documentos apresentados como provas da conduta anticompetitiva devem ser cotejados com a narrativa do caso e depoimentos das partes envolvidas. É certo dizer que documentos relativos a condutas anticompetitivas não surgem do éter e devem guardar algum nível de relação com a conduta investigada. Isto é particularmente importante em casos com muitas provas indiretas. E, considerada a dificuldade cada vez maior em se ter acesso a provas diretas de condutas anticompetitivas, é importante que a autoridade estabeleça balizas de análise para provas indiretas. 
+
+7.      Há situações em que estas mesmas provas serão muito úteis para a comprovação da existência de uma conduta anticompetitiva, principalmente em cenários em que não há uma prova cabal – smoking gun – da existência de acordo entre agentes econômicos, a fim de frustrar a concorrência. Nessas situações, provas circunstanciais, tais como as aqui analisadas, podem ser utilizadas para, de fato, corroborar a existência de conduta anticompetitiva. 
+
+Entendo que o presente caso, especialmente na situação do representado Faustino Luigi Minchella, se encaixa exatamente na situação que mencionei no voto-vogal acima: quando as provas circunstanciais são capazes de demonstrar a participação de conduta anticompetitiva a partir de sua análise dentro dos relatos e depoimentos das partes envolvidas.  
+
+Pelo exposto, voto pela condenação do representado Faustino Luigi Minchella pela infração à ordem econômica prevista no art. 20, incisos I a IV, c/c art. 21, incisos I, II, III e IV da Lei nº 8.884/1994, correspondentes ao artigo 36, incisos I a IV, c/c § 3º, inciso I, alíneas a, b e c, e incisos II, III e VIII, da Lei nº 12.529/2011. 
+
+b)José Angel Viani Barroyeta 
+
+Conforme consta dos autos, José Angel Viani Barroyeta atuou como Diretor Geral para a América do Sul na empresa Federal Mogul, entre 2007 e 2010. Barroyeta estaria implicado na conduta investigada no mercado de IAM, especificamente durante a Fase 2, entre janeiro de 2007 a outubro de 2008, e Fase 3, entre novembro de 2008 e dezembro de 2010. São poucas as evidências participação de Barroyeta no conluio, restringindo-se apenas a trocas de e-mails e agendamento de reuniões. 
+
+De acordo com e-mails reproduzidos nos autos, Barroyeta foi convidado a participar de reunião em 14 de dezembro de 2007 junto com a MML com o suposto objetivo de discutir a política de preços de ambas as companhias. Em e-mail posterior à reunião, há uma reclamação sobre os baixos preços da Federal Mogul no mercado de IAM. Em tal e-mail, o Representado José Angel Viani Barroyeta é citado, mas não consta como destinatário ou remetente da mensagem. Portanto, não há como afirmar que Barroyeta possuía qualquer conhecimento sobre o e-mail em que seu nome é citado. 
+
+O segundo elemento de prova diz respeito a agendamento de reunião enviado para inúmeros representantes do setor, incluindo o Representado. Em resposta, Barroyeta confirmou sua participação na reunião. Não há qualquer informação a respeito da pauta da reunião ou registro dos temas que foram tratados. Sabe-se, apenas, que ocorreria na sede do Sindipeças e a reunião seria do Grupo Setorial de Motor. 
+
+Em diálogo posterior, data de 04 de novembro de 2009, entre Claus Hoppen (Diretor-Presidente da MML) e Edvaldo Ricardo (Gerente de Vendas da MML), foi afirmado que “o Viani com certeza quererá discutir preços com a KS e a Mahle.” 
+
+Tem-se, portanto, que o acervo probatório em face de José Angel Viani Barroyeta é extremamente reduzido, em termos quantitativos, e bastante frágil, em termos qualitativos. São todos relatos levados ao conhecimento do Cade por lenientes, sem qualquer elemento adicional capaz de corroborar as afirmações. 
+
+Não obstante, a SG/Cade afirmou estar “confirmada a participação do Representado José Angel Viani Barroyeta na prática de conduta anticompetitiva” e recomendou sua condenação. 
+
+Da mesma forma, o Parquet entendeu que o reduzido acervo probatório relativo a Barroyeta foi suficiente para comprovar sua participação na conduta e opinou pela condenação do Representado. 
+
+A PFE/Cade, por sua vez, opinou pelo arquivamento do feito em relação a Barroyeta, por entender que os elementos acostados aos autos possuem escassa eficácia probatória. Ademais, afirmou que “o padrão probatório adotado pela autoridade concorrencial para o convencimento quanto à configuração do ilícito exige que a análise de provas indiciárias e circunstanciais, mesmo que de forma indireta, aponte para um conjunto suficientemente robusto.” 
+
+S.M.J, divirjo da posição adotada pela Superintendência-Geral do Cade e pelo MPF/Cade e me filio ao raciocínio da PFE/Cade, que me parece mais adequado no presente caso. Não há, in casu, provas robutas capazes de corroborarem o relato dos lenientes sobre a partipação de Barroyeta no conluio. 
+
+De fato, a mera citação ao nome de Barroyeta nos e-mails não é suficiente para provar sua participação no conluio. Haveria dúvidas razoáveis quanto à sua participação mesmo se constasse como destinatário da mensagem. A menção a seu nome, feita por terceiros, não é suficiente para concluir, de maneira indubitável, que o Representado participou ativamente da conduta anticompetitiva. Entendimento semelhante foi adotado por este Conselho no âmbito dos Processos Administrativos n. 08700.009879/2015-64[10]  (Cartel dos Postos de Combustíveis de Joinville/SC) e 08700.000729/2016-76[11]  (Cartel no mercado de compra de laranja), por exemplo.  
+
+Ademais, quanto ao elemento de prova relativo ao agendamento de reunião, também considero não ser capaz de atestar qualquer participação ativa do Representado no conluio. O convite para reunião não configura, por si só, prova de participação do acordo entre concorrentes. Não há qualquer elemento que possibilite aferir qual o conteúdo dos encontros. Além disso, o encontro foi marcado para a sede do Sindicato Nacional de Indústria de Componentes para Veículos Automotores (“Sindipeças”), fórum tradicional de encontro entre membros do setor. Vale ressaltar que, apesar de não existir uma imunidade antitruste para sindicatos e associações de classe, não se pode partir da premissa de que toda e qualquer discussão no âmbito de um sindicato terá caráter anticompetitivo. São necessárias provas capazes de provar a ocorrência da conduta e a participação das pessoas físicas. Não é o que ocorre no presente caso.  
+
+Sendo assim, voto pelo arquivamento do presente processo administrativo em face do Representado José Angel Viani Barroyeta, por entender não estar provada a sua participação em conduta anticompetitiva. 
+
+c)Bernd Brünig 
+
+ De acordo com os autos, Bernd Brünig foi Chefe de Vendas e Marketing da Federal Mogul entre os anos 2000 e 2008. Sua suposta participação no conluio teria ocorrido durante as Fases 2 e 3, especificamente no mercado de peças originárias (OEM). 
+
+Há, nos autos, dois elementos de prova com relação ao Representado Bernd Brünig. 
+
+O primeiro elemento de prova é um agendamento eletrônico de reunião entre Brünig e Thomas José Carlos Klein, diretor de vendas de OEM da MML, em 23 de outubro de 2007. O documento é oriundo do Acordo de Leniência n. 19/2017, presente no Histórico de Conduta principal (SEI 0661005). O agendamento possui no campo assunto a descrição “Almoço c/ Brünig + Moser” no local Bar des Arts. Não há qualquer menção ao tema da reunião ou às pessoas que efetivamente participaram do almoço.  
+
+Uma outra menção foi feita ao nome de Brünig no âmbito TCC firmado entre o Cade e a Federal Mogul. A menção apenas buscou confirmar que Bernd Brünig estava em território nacional no dia da reunião mencionada acima. Entretanto, não foram apresentados documentos capazes de corroborar a afirmação. 
+
+O segundo elemento de prova diz respeito à suposta ocorrência de ligações telefônicas entre Bernd Brünig e José Ademir de Souza, diretor de vendas e marketing da KSPG. As afirmações foram feitas no âmbito do TCC celebrado entre Souza e o Cade (SEI 0661015). Ainda, Souza apresentou anotações manuscritas sobre as supostas ligações. De acordo com Souza, as ligações discutiram os seguintes temas:  
+
+Cotação de pistões para o motor K4M. As anotações de Souza refletiram os preços praticados pela Federal Mogul; 
+
+Cotação de preços da Ford e discussão de estratégia de preços que deveriam ser cotados. As anotações indicariam que a Federal Mogul teria sinalizado à KSPG que iria protegê-la na cotação.  
+
+Discussão de projeto da Volkswagen para motores 1.4. Referido projeto seria de preferência da Federal Mogul. As anotações indicariam os valores cotados pela Federal Mogul e que serviriam como premissas para que a KSPG pudesse elaborar uma proposta de cobertura. 
+
+Anotações supostamente realizadas por José Ademir de Souza durante reunião telefônica com Brünig, que teve por objetivo discutir cotação relacionada a pistões para motores 1.0L e 1.6L. 
+
+Como se percebe, os dois elementos de prova apresentados com o objetivo de atestar a suposta participação de Bernd Brünig na prática anticompetitiva em comento foram produzidos de maneira unilateral por leniente ou compromissário de TCC. Não há qualquer outro elemento adicional capaz de corroborar as afirmações trazidas aos autos. O mero agendamento de reunião, sem indicação dos temas que foram debatidos ou sobre as pessoas que efetivamente participaram da reunião, possui valor probatório extremamente baixo, conforme afirmado acima.  
+
+Da mesma forma, as anotações elaboradas por José Ademir de Souza são provas indiretas feitas de maneira unilateral por terceiros. Mais uma vez, trata-se de elemento com baixo valor de prova.
+
+Em sua Nota Técnica, a SG/Cade afirmou que “o conjunto probatório colacionado aos autos não foi suficiente para comprovar os indícios inicialmente coligidos em face do Representado Bernd Brünig.” A PFE/Cade, por seu turno, afirmou que o padrão probatório adotado pela autoridade concorrencial aponte para um conjunto suficientemente robusto, principalmente quando as provas disponíveis são indiretas e circunstanciais. De acordo com a PFE/Cade, “os elementos acostados nos autos mostram-se de escassa eficácia probatória em relação ao representado Bernd Brünig, inexistindo, outrossim, provas diretas de participação no conluio.” Como conclusão, tanto a SG/Cade quanto a PFE/Cade e o MPF/Cade opinaram pelo arquivamento do processo administrativo em relação a Bernd Brünig. 
+
+Como já tive oportunidade de expressar em meu voto-vogal no Cartel dos Hidrômetros, a existência somente de provas indiretas em uma investigação de conduta por infração à ordem econômica não significa que haverá arquivamento automático do processo administrativo.  Tais provas devem ser cotejadas com demais elementos de prova, a saber, a narrativa dos envolvidos no caso. 
+
+No caso específico de Bernd Brünig, entendo que não há qualquer outro elemento de prova capaz de corroborar as provas indiretas e unilaterais que foram apresentadas. Tal necessidade de corroboração se torna mais importante quando verificamos que os únicos elementos de prova disponíveis são oriundos da colaboração de lenientes ou de compromissários, os quais buscam prover a autoridade com o maior número possível de documentos, sem que haja, necessariamente, análise aprofundada do valor probatório de cada elemento de prova. 
+
+Nesse sentido, seguindo o entendimento da SG/Cade, PFE/Cade e MPF/Cade, voto pelo arquivamento do processo administrativo em face de Bernd Brünig. 
+
+Da Dosimetria do Valor das Sanções Pecuniárias 
+
+Para adequar a dosimetria do presente caso à metodologia de ability to pay, nos termos da jurisprudência deste Tribunal[12] , este Gab-1, em 02.04.2024, expediu ofício à Receita Federal do Brasil (SEI 1368509) solicitando dados constantes da Declaração de Imposto de Renda dos Representados José Angel Viani Barroyeta e Faustino Luigi Minchella, nos últimos 5 (cinco) anos. 
+
+A metodologia de ability to pay, acatada por este Tribunal nos termos propostos pelo Conselheiro Gustavo Augusto no voto-vista do Processo Administrativo nº 08700.007278/2015-17[13] , objetiva sistematizar a aplicação de multas a pessoas físicas em casos de condenação por cartel, considerando uma aproximação com os padrões de dosimetria de multa utilizados em outras jurisdições e a necessidade de adequação dos valores à capacidade econômica do infrator como forma de cumprir com o efeito dissuasório da pena pecuniária. Trata-se de uma metodologia aplicada em duas fases, conforme explicado no voto do Conselheiro Gustavo Augusto (SEI 1100178):  
+
+“Na primeira fase, verifico as circunstâncias da conduta, as quais serão consideradas para a fixação da alíquota aplicável. Na segunda fase, verifico, à luz das informações disponíveis no Imposto de Renda da Pessoa Física, ou de outros elementos fáticos relevantes, se o representado possui capacidade econômica para o pagamento da multa e se a multa é financeiramente adequada à capacidade econômica do representado, verificando tanto a aplicabilidade da punição como o desejado efeito dissuasório.” 
+
+Ocorre que, por meio da Nota nº 82/2024/RFP/Copes/Diaes, de 25/04/2024, enviada ao meu gabinete por e-mail em 17.05.2024, a Receita Federal do Brasil informou que "os contribuintes em tela não apresentaram as Declarações do Imposto sobre a Renda da Pessoa Física (DIRPF) relativas ao período de 2018 a 2022." 
+
+Por essa razão, este Gab-1 não utilizará a metodologia de ability to pay neste caso, devido à ausência de dados necessários para a sua aplicação. 
+
+Adicionalmente, importante destacar que, em razão de a conduta de cartel ter se iniciado ainda sob a vigência da Lei nº 8.884/94, serão consideradas as disposições legais mais benéficas aos representados, conforme jurisprudência consolidada no Cade.[14]  Assim, às pessoas físicas administradoras será aplicada a Lei nº 12.529/11, enquanto às não administradoras, a Lei nº 8.884/1994. 
+
+Para categorização das pessoas físicas, são considerados administradores aqueles que ocuparam cargos de direção estatutários ou equivalentes, seja na Diretoria ou no Conselho de Administração. Mesmo que um indivíduo não seja administrador de direito, mas possua poderes gerenciais equiparáveis ou participação relevante no cartel, sua contribuição deve ser equiparada à de um administrador.  
+
+O Representado Faustino Luigi Minchella exerceu o cargo de Diretor Administrativo da Divisão do Mercado Independente de Peças de Reposição (“IAM”) entre os anos de 2006 e 2010 na KSPG Automotive Brazil Ltda. Portanto, deve ser equiparado a um administrador para efeitos de cálculo da pena pecuniária, como acertadamente aponta a Nota Técnica nº 169/2023 (SEI 1311046). 
+
+Conforme o Guia de Dosimetria de Multas de Cartel, é fundamental considerar o grau de participação no cartel ao aplicar alíquotas sobre a multa da empresa relacionada às pessoas físicas administradoras. Embora o documento não tenha força vinculativa, é crucial seguir suas diretrizes para garantir a consistência e a transparência na dosimetria. Portanto, sempre que possível, irei basear meu cálculo de dosimetria nos parâmetros recomendados pelo referido Guia. 
+
+São três as etapas da dosimetria da multa: (a) definição da base de cálculo e da alíquota da multa; (b) ajuste de alíquota para a duração do cartel e para as atenuantes e agravantes; e (c) comparação com os limites legais para multas. Passo agora a analisar cada um dos requisitos.  
+
+a)Base de Cálculo  
+
+A Lei  de Defesa da Concorrência determina os parâmetros de multa para as pessoas físicas administradoras nos casos de infração à ordem econômica: "no caso de administrador, direta ou indiretamente responsável pela infração cometida, quando comprovada a sua culpa ou dolo, multa de 1% (um por cento) a 20% (vinte por cento) daquela aplicada à empresa”. Portanto, esta é a base de cálculo que deve ser a adotada pelo Cade, salvo na ocorrência de situações excepcionais.  
+
+No caso específico da KSPG, empresa ao qual o Representado Faustino Luigi Minchella era vinculado, houve a celebração de Termo de Compromisso de Cessação com o Cade. Não somente a pessoa jurídica, mas também alguns funcionários da empresa aderiram ao TCC (SEI 0593827). 
+
+Considerando que, nos termos do inciso III do § 1º do artigo 85 da Lei nº 12.529/2011 e do Regimento Interno do Cade (RICADE), a contribuição pecuniária ao Fundo de Defesa de Direitos Difusos deve ser estabelecida com base no valor da multa esperada, a SG estimou a multa para um cenário similar de condenação. Essa estimativa foi feita com base no faturamento no mercado nacional de IAM e OEM para o produto pistões, ambos no ano anterior à instauração do Processo Administrativo (ano anterior: 2016). Segundo essa base de cálculo, a multa esperada foi calculada em R$ 34.957.220,94 (trinta e quatro milhões, novecentos e cinquenta e sete mil duzentos e vinte reais e noventa e quatro centavos). 
+
+Para as contribuições das pessoas físicas que aderiram ao TCC, no entanto, a base de cálculo considerou apenas o faturamento no mercado de reposição (IAM), pois os Compromissários e o Representado trabalhavam exclusivamente neste segmento de mercado. Nesse sentido, o valor da multa que seria aplicável à Pessoa Jurídica, considerando apenas esse segmento, foi calculado em R$ 13.048.157,03 (treze milhões quarenta e oito mil cento e cinquenta e sete reais e três centavos), conforme consta na NT 12/2019 (SEI 0579775). 
+
+Dessa forma, nos termos do TCC, a empresa KSPG se comprometeu a pagar R$ 27.266.632,33 (vinte e sete milhões, duzentos e sessenta e seis mil, seiscentos e trinta e dois reais e trinta e três centavos) a título de contribuição pecuniária para o Fundo de Defesa dos Direitos Difusos. O funcionário Claus von Heydebreck se comprometeu a pagar R$ 101.775,62 (cento e um mil, setecentos e setenta cinco reais e sessenta e dois centavos) e o funcionário Luis Lipay se comprometeu a pagar R$ 50.000,00 (cinquenta mil reais), a título de contribuição pecuniária. 
+
+[ACESSO RESTRITO] 
+
+ 
+
+[ACESSO RESTRITO] 
+
+ 
+
+ 
+
+O Guia de Dosimetria do Cade estabelece que “em regra, a multa para pessoas físicas deve ser maior do que a contribuição pecuniária aplicada às pessoas físicas que fizeram TCC e que possuem grau de participação semelhante na conduta”. Considerando que o compromissário Claus von Heydebreck possuía posição de administrador na empresa, da mesma forma que o representado Faustino Luigi Minchella, adoto o valor da contribuição pecuniária de Claus von Heydebreck como piso para o cálculo de multa a ser imposta ao representado. 
+
+Dessa forma, a multa mínima a ser aplicada será de R$ 130.481,57 (cento e trinta mil, quatrocentos e oitenta e um reais e cinquenta e sete centavos), correspondente a 1% do faturamento da KSPG no segmento de IAM e correspondente ao valor da contribuição pecuniária imposta a Claus von Heydebreck no TCC, antes da aplicação dos descontos. 
+
+Por fim, anoto que há situações em que será aceitável que a multa imposta em sede de Processo Administrativo será menor do que a contribuição pecuniária paga pelo compromissário em sede de Termo de Compromisso de Cessação. Isso pode ocorrer quando há a imposição de sanções não-pecuniárias ao representado, de forma que haveria uma forma de “compensação” da diferença dos valores com a imposição de sanções acessórias do tipo não-pecuniárias. De forma semelhante me manifestei em voto-vogal no âmbito do Processo Administrativo nº 08700.007776/2016-41 (“PAC Favelas”, SEI 1377767)[15] . 
+
+b)Ajuste da Alíquota 
+
+Considerando as diretrizes do Guia de Dosimetria de Multas em Cartel, é crucial observar o grau de participação no cartel, ao definir as alíquotas aplicadas à pessoa física.  
+
+Adoto, como mencionado acima, 1% (um por cento) como alíquota de referência para o cálculo da sanção.  
+
+Passo a analisar as majorantes e atenuantes, conforme estabelecido no Guia e no art. 45 da Lei n. 12.529/2011.  
+
+Quanto à gravidade da infração, entendo que o cartel é a mais grave das condutas anticompetitivas e sua ocorrência foi indubitável, com claros efeitos à concorrência. Além disso, Minchella teve papel ativo na conduta. Majoro a alíquota em 0,5%. 
+
+Quanto à boa-fé do infrator, entendo que não deve ser aplicada como atenuante, haja vista a falta de boa-fé na hipótese.  
+
+Quanto à vantagem auferida, não foi possível a estimar. 
+
+Quanto à consumação ou não da infração, entendo que foi consumada a infração, com efeitos no mercado. Majoro em 0,1%. 
+
+Quanto ao grau de lesão, entendo que o cartel clássico demanda uma pena mais severa devido à lesão que causa na livre concorrência. Majoro em 0,2%. 
+
+Quanto aos efeitos econômicos da infração, considero que não foi possível estimá-los. 
+
+Quanto à situação econômica do infrator, entendo não haver dados suficientes para sua devida análise, principalmente em razão da ausência de informações junto à Receita Federal do Brasil. 
+
+Quanto à reincidência, não há condenação prévia do Representado. 
+
+Assim, considerando a análise de atenuantes e agravantes, estabeleço a alíquota de multa em 1,8 %.  
+
+c)Limites legais da multa
+
+Uma vez definida a base de cálculo e ajustada a alíquota para a multa, deve-se verificar se a multa está dentro dos limites estipulados pela Lei nº 12.529/2011, que varia de 1% a 20% sobre a multa aplicada à empresa vinculada. 
+
+No presente caso, a aplicação da alíquota de 1,8% sobre a base de cálculo de R$ 13.048.157,03 (treze milhões quarenta e oito mil cento e cinquenta e sete reais e três centavos) resulta no valor de R$ 234.866,82 (duzentos e trinta e quatro mil, oitocentos e sessenta e seis reais e oitenta e dois centavos), o qual, atualizado pela Selic[16] , resulta em  R$ 324.116,21 (trezentos e vinte e quatro, cento e dezesseis mil e vinte e um centavos), dentro dos limites legais, portanto. ​
+
+Dispositivo
+
+Pelo exposto acima, voto pelo arquivamento do processo administrativo em face dos Representados José Angel Viana Barroyeta e Bernd Brünig, por insuficiência de provas e ausência de evidências capazes de provar a participação dos representados na conduta anticompetitiva sob análise.
+
+Ato contínuo, voto pela condenação do Representado Faustino Luigi Minchella, pelas infrações previstas no art. 20, incisos I a IV, c/c art. 21, incisos I, II, III e IV da Lei nº 8.884/1994, correspondentes ao artigo 36, incisos I a IV, c/c §3º, inciso I, alíneas a, b e c, e incisos II,III e VIII, da Lei nº 12.529/2011. 
+
+Com relação ao Representado Faustino Luigi Minchella, fixo o valor da multa em  R$ 324.116,21 (trezentos e vinte e quatro, cento e dezesseis mil e vinte e um centavos), de acordo com a dosimetria acima detalhada. O pagamento deverá ser feito em até 30 dias após a publicação da ata da sessão de julgamento.
+
+Por fim, nos termos manifestados pelo MPF junto ao CADE, voto (i) pela expedição de ofício com cópia da decisão ao Ministério Público Federal, por meio da Procuradoria da República em São Paulo, para ciência e eventual propositura de ação para ressarcimento de danos à coletividade (artigo 47 da Lei nº 12.529/2011 c/c o artigo 1º, inciso V, da Lei nº 7.347/1985), bem como a adoção das providências julgadas cabíveis na seara penal (artigo 4º da Lei nº 8.137/1990); e (ii) pela ampla divulgação da decisão, com a sua remessa a potenciais interessados, notadamente aqueles identificados como afetados pela conduta anticompetitiva, para que, querendo, exerçam o direito de reparação a que, eventualmente, tenham direito. 
+
+ 
+
+Brasília, DF – data da assinatura eletrônica
+
+ 
+
+CARLOS JACQUES VIEIRA GOMES 
+
+Conselheiro-Relator 
+
+(assinado eletronicamente) 
+
+____________________________
+
+[1] Agradeço nominalmente Daniele Eduarda de Oliveira e Amanda Martins Köhler, estagiárias do Gabinete 1, pelo auxílio na pesquisa para elaboração deste voto.
+
+[2] A citação não é um fim em si mesma. Ela está voltada à cientificação do réu acerca da ação contra ele ajuizada, oportunizando-lhe, uma vez assim queira, defender-se. Aliás, o ato de contestar, por isso mesmo, configura-se também um ônus. O demandado, ineludivelmente ciente da ação contra ele movida, terá a faculdade de apresentar defesa e, se não o fizer ou em o fazendo intempestivamente, arcará com os ônus daí decorrentes.” (REsp n. 1.625.033/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/5/2017, DJe de 31/5/2017)
+
+[3] AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO CUMULADA COM PEDIDO DE ADJUDICAÇÃO COMPULSÓRIA E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.013 DO CPC/2015. PREQUESTIONAMENTO. AUSÊNCIA. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS. JURISPRUDÊNCIA DO STJ. RECURSO NÃO PROVIDO. 1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação das Súmulas 282 e 356 do STF. 2. A revelia não importa em procedência automática dos pedidos, porquanto a presunção de veracidade dos fatos alegados pelo autor é relativa, cabendo ao magistrado a análise conjunta das alegações e das provas produzidas. Precedentes. 3. Agravo interno não provido. (AgInt no AREsp n. 1.588.993/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/10/2020, DJe de 24/11/2020.) [grifo nosso]
+
+[4] DIDIER JR., Fredie. Curso de Direito Processual Civil: introdução ao direito processual civil, parte geral e processo de conhecimento. 19ª Ed. Salvador: Ed. JusPodivm, 2017, p. 750.
+
+[5] Processo Administrativo nº 08700.006065/2017-30, Representante: Cade ex officio, Representados: Federal Mogul Sistemas Automotivos Ltda., KSPG Automotive Brazil Ltda. e outros, Relator: Conselheiro Maurício Oscar Bandeira Maia, j. 03/02/2021 (171ª Sessão Ordinária de Julgamento).
+
+[6] Processo Administrativo nº 08700.006065/2017-30, Representante: Cade ex officio, Representados: Federal Mogul Sistemas Automotivos Ltda., KSPG Automotive Brazil Ltda. e outros, Relator: Conselheiro Maurício Oscar Bandeira Maia, j. 03/02/2021 (171ª Sessão Ordinária de Julgamento).
+
+[7] Processo Administrativo nº 08700.009165/2015-56, Representante: CADE ex officio, Representados: Elster Medição de Água S/A e outros, Relator: Conselheiro Victor Oliveira Fernandes, j. 07/02/2024 (223ª Sessão Ordinária de Julgamento).
+
+[8] Inq. 4074, Rel. Min. Edson Fachin, Redator p/ Acórdão: DIAS TOFFOLI, Segunda Turma, j. em 14/08/2018, DJE 17-10-2018.
+
+[9] Processo Administrativo nº 08700.009165/2015-56, Representante: CADE ex officio, Representados: Elster Medição de Água S/A e outros, Relator: Conselheiro Victor Oliveira Fernandes, j. 07/02/2024 (223ª Sessão Ordinária de Julgamento), Voto-vogal: Conselheiro Carlos Jacques Vieira Gomes.
+
+[10] Processo Administrativo nº 08700.009879/2015-64, Representante: Ministério Público do Estado de Santa Catarina, Representados: Sindicato do Comércio Varejista de Derivados de Petróleo do Estado de Santa Catarina e outros. Relatora: Conselheira Lenisa Rodrigues Prado, j. 12/05/2021 (177ª Sessão Ordinária de Julgamento).
+
+[11] Processo Administrativo nº 08700.000729/2016-76, Representante: Comissão de Defesa do Consumidor, Meio Ambiente e Minorias da Câmara dos Deputados, Representados: Associação Brasileira dos Exportadores de Cítricos (ABECITRUS) e outros, Relator: Conselheiro Paulo Burnier da Silveira, j. 28/02/2018 (118ª Sessão Ordinária de Julgamento).
+
+[12] Processo Administrativo nº 08700.000729/2016-76, Representante: Comissão de Defesa do Consumidor, Meio Ambiente e Minorias da Câmara dos Deputados, Representados: Associação Brasileira dos Exportadores de Cítricos (ABECITRUS) e outros, Relator: Conselheiro Paulo Burnier da Silveira, j. 28/02/2018 (118ª Sessão Ordinária de Julgamento).
+
+[13] Processo Administrativo nº 08700.007278/2015-17, Representante: Empresa Brasileira de Infraestrutura Aeroportuária - Infraero, Representados: Alimentare Serviços de Restaurante e Lanchonete Ltda. e outros, Relator: Conselheiro Sérgio Costa Ravagnani, j. 03/08/2022 (200ª Sessão Ordinária de Julgamento), Voto-vista: Conselheiro Gustavo Augusto Freitas de Lima.
+
+[14] O Tribunal do Cade enfrentou a temática do conflito intertemporal de leis ao julgar o Processo Administrativo nº 08012.009834/2006-57, no qual se estabeleceu o entendimento pela aplicação da lei mais benéfica ao administrado. A partir dessa premissa, é possível extrair a seguinte regra: (i) para Empresas e Administradores, deve ser aplicada a Lei nº 12.529/2011, por ser mais vantajosa que a legislação anterior; (ii) para outras pessoas físicas ou jurídicas, deve ser aplicada a Lei nº 8.884/1994. Esse entendimento está consolidado na jurisprudência do Cade, conforme consta no Guia de Dosimetria de Multas de Cartel.
+
+[15] Processo Administrativo nº 08700.007776/2016-41, Representante: Cade ex officio, Representados: Andrade Gutierrez Engenharia S.A. e outros, Relator: Conselheiro Sérgio Costa Ravagnani, j. 17/04/2024 (228ª Sessão Ordinária de Julgamento), Voto-Vogal: Conselheiro Carlos Jacques Vieira Gomes.
+
+[16] Atualização entre março/2019 (mês de celebração do TCC) e abril/2024 (mês imediatamente anterior ao julgamento do processo administrativo).
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Referência: Processo nº 08700.004558/2019-05	SEI nº 1390607
