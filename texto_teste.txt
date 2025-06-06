@@ -1,11 +1,5 @@
-Timbre
-Ministério da Justiça e Segurança Pública - MJSP
+SEI/CADE - 1390607 - Voto Processo Administrativo
 
-Conselho Administrativo de Defesa Econômica - CADE
-
-SEPN 515, Conjunto D, Lote 4, Edifício Carlos Taurisano, - Bairro Asa Norte, Brasília/DF, CEP 70770-504
-Telefone: (61) 3221-8472 - www.gov.br/cade
-  
 
 Processo Administrativo nº 08700.004558/2019-05 (Apartado de Acesso Restrito nº 08700.004559/2019-41)
 
@@ -14,28 +8,43 @@ Representante: CADE ex officio
 Representados(as): Bernd Brünig, Faustino Luigi Minchella e José Angel Viani Barroyeta 
 
 Relator(a): Conselheiro Carlos Jacques Vieira Gomes 
-
 VOTO DO RELATOR - CONSELHEIRO-RELATOR CARLOS JACQUES VIEIRA GOMES
 
 VERSÃO DE ACESSO PÚBLICO
 
-Ementa:
+	
+		
+			
+			Ementa:
+			
+			
+			Processo Administrativo. CARTEL de peças automotivas. mercado independente de peças de reposição (“IAM”). mercado peças originais (“OEM”). PESSOAS FÍSICAS. DESMEMBRAMENTO. PARECER DA SUPERINTENDÊNCIA-GERAL PELA  CONDENAÇÃO parcial.  PARECER DA PROCURADORIA FEDERAL ESPECIALIZADA PELA CONDENAÇÃO parcial. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELA CONDENAÇÃO  PARCIAL. revelia. necessidade de corroboração de declarações de compromissários e lenientes. VOTO PELA CONDENAÇÃO PARCIAL, ACOMPANHANDO A PFE/CADE. MULTA. 
+			
+		
+	
 
-Processo Administrativo. CARTEL de peças automotivas. mercado independente de peças de reposição (“IAM”). mercado peças originais (“OEM”). PESSOAS FÍSICAS. DESMEMBRAMENTO. PARECER DA SUPERINTENDÊNCIA-GERAL PELA  CONDENAÇÃO parcial.  PARECER DA PROCURADORIA FEDERAL ESPECIALIZADA PELA CONDENAÇÃO parcial. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELA CONDENAÇÃO  PARCIAL. revelia. necessidade de corroboração de declarações de compromissários e lenientes. VOTO PELA CONDENAÇÃO PARCIAL, ACOMPANHANDO A PFE/CADE. MULTA. 
 
-A confissão decorrente da revelia é ficta, pois não há confissão pessoal do Representado, somente uma presunção decorrente da ausência de contestação dos fatos apresentados na peça inicial. A constatação de revelia significa automática condenação dos Representados. É dever do julgador apreciar as provas apresentadas nos autos, com o fito de verificar se os elementos probatórios são capazes de corroborarem os fatos tidos como verdadeiros em decorrência da revelia.
+	
+		
+			
+			A confissão decorrente da revelia é ficta, pois não há confissão pessoal do Representado, somente uma presunção decorrente da ausência de contestação dos fatos apresentados na peça inicial. A constatação de revelia significa automática condenação dos Representados. É dever do julgador apreciar as provas apresentadas nos autos, com o fito de verificar se os elementos probatórios são capazes de corroborarem os fatos tidos como verdadeiros em decorrência da revelia.
 
-Necessidade de aplicação de critérios minimamente estabilizados na doutrina penal em relação à regra de corroboração de provas. Jurisprudência do STF. Documentos ou relatos unilaterais apresentadas isoladamente, sem corroboração por outras provas diretas ou indiciárias, são reiteradamente consideradas como insuficientes pelo Tribunal do Cade para comprovar a materialidade da conduta anticompetitiva ou a participação do Representado na conduta
+			Necessidade de aplicação de critérios minimamente estabilizados na doutrina penal em relação à regra de corroboração de provas. Jurisprudência do STF. Documentos ou relatos unilaterais apresentadas isoladamente, sem corroboração por outras provas diretas ou indiciárias, são reiteradamente consideradas como insuficientes pelo Tribunal do Cade para comprovar a materialidade da conduta anticompetitiva ou a participação do Representado na conduta
 
-A mera citação em e-mails não é suficiente para provar a participação no conluio. Haveria dúvidas razoáveis quanto à participação mesmo de destinatário da mensagem. A menção do nome do Representado, feita por terceiros, não é suficiente para concluir, de maneira indubitável, que o Representado participou ativamente da conduta anticompetitiva.
+			A mera citação em e-mails não é suficiente para provar a participação no conluio. Haveria dúvidas razoáveis quanto à participação mesmo de destinatário da mensagem. A menção do nome do Representado, feita por terceiros, não é suficiente para concluir, de maneira indubitável, que o Representado participou ativamente da conduta anticompetitiva.
 
-Apesar de não existir uma imunidade antitruste para sindicatos e associações de classe, não se pode partir da premissa que toda e qualquer discussão no âmbito de um sindicato ou associação terá caráter anticompetitivo. Necessário aferir as provas do caso concreto.
+			Apesar de não existir uma imunidade antitruste para sindicatos e associações de classe, não se pode partir da premissa que toda e qualquer discussão no âmbito de um sindicato ou associação terá caráter anticompetitivo. Necessário aferir as provas do caso concreto.
 
-Há situações em que será aceitável que a multa imposta em sede de Processo Administrativo seja menor do que a contribuição pecuniária paga pelo compromissário em sede de Termo de Compromisso de Cessação. Isso pode ocorrer quando há a imposição de sanções não-pecuniárias ao representado, de forma que haveria uma forma de “compensação” da diferença dos valores com a imposição de sanções acessórias do tipo não-pecuniária.
+			Há situações em que será aceitável que a multa imposta em sede de Processo Administrativo seja menor do que a contribuição pecuniária paga pelo compromissário em sede de Termo de Compromisso de Cessação. Isso pode ocorrer quando há a imposição de sanções não-pecuniárias ao representado, de forma que haveria uma forma de “compensação” da diferença dos valores com a imposição de sanções acessórias do tipo não-pecuniária.
 
-Condenação parcial com imposição de multa pecuniária.
+			Condenação parcial com imposição de multa pecuniária.
+			
+		
+	
+
 
  
+
 
 voto
 
@@ -57,43 +66,74 @@ Ainda, foram celebrados e homologados Termos de Compromisso de Cessação com os
 
 A tabela abaixo resume os procedimentos adotados para a devida notificação dos Representados 
 
-Representados 
 
-Notificação (nº SEI) 
+	
+		
+			
+			Representados 
+			
+			
+			Notificação (nº SEI) 
+			
+			
+			Entrega da Notificação (data / nº SEI) 
+			
+			
+			Defesas Apresentadas (data / nº SEI) 
+			
+		
+	
+	
+		
+			
+			Bernd Brünig 
+			
+			
+			Ofício 2864/2022 (SEI 1047846) 
+			
+			
+			12/07/2022 - Edital 
 
-Entrega da Notificação (data / nº SEI) 
+			(SEI 1091971) 
+			
+			
+			Não apresentou 
+			
+		
+		
+			
+			Faustino Luigi Minchella 
+			
+			
+			Notificação 124/2022 (SEI 1036355) 
+			
+			
+			23/03/2022 
 
-Defesas Apresentadas (data / nº SEI) 
+			(SEI 1048507) 
+			
+			
+			Não apresentou 
+			
+		
+		
+			
+			José Angel VIani Barroyeta 
+			
+			
+			Notificação 125/2022 (SEI 1036358) 
+			
+			
+			25/03/2022 
 
-Bernd Brünig 
+			(SEI 1048509) 
+			
+			
+			Não apresentou 
+			
+		
+	
 
-Ofício 2864/2022 (SEI 1047846) 
-
-12/07/2022 - Edital 
-
-(SEI 1091971) 
-
-Não apresentou 
-
-Faustino Luigi Minchella 
-
-Notificação 124/2022 (SEI 1036355) 
-
-23/03/2022 
-
-(SEI 1048507) 
-
-Não apresentou 
-
-José Angel VIani Barroyeta 
-
-Notificação 125/2022 (SEI 1036358) 
-
-25/03/2022 
-
-(SEI 1048509) 
-
-Não apresentou 
 
 Como se depreende da tabela, todos os Representados foram devidamente notificados, seja por meio de ofícios enviados pela Superintendência-Geral, seja por meio de Edital, nos termos do § 2º do art. 70 da Lei n. 12.529/2011, bem como do art. 58 do Regimento Interno do Cade. 
 
@@ -139,7 +179,7 @@ As empresas envolvidas no conluio, notadamente a Federal Mogul Sistemas Automoti
 
 As fases do cartel, conforme proposto pela Superintendência Geral, podem ser divididas em: [ACESSO RESTRITO] 
 
-[ACESSO RESTRITO]
+[ACESSO RESTRITO] 
 
 Como será detalhado a seguir, a participação dos representados teria ocorrido na Fase 2 e Fase 3 IAM, bem como na Fase 2 OEM. 
 
@@ -209,43 +249,76 @@ Quadro 1
 
 Resumo dos Pareceres 
 
-Representado 
 
-SG/Cade 
+	
+		
+			
+			Representado 
+			
+			
+			SG/Cade 
+			
+			
+			PFE/Cade 
+			
+			
+			MPF/Cade 
+			
+		
+		
+			
+			Faustino Luigi Minchella 
+			
+			
+			Condenação 
+			
+			
+			Condenação 
+			
+			
+			Condenação 
+			
+		
+		
+			
+			Jose Angel Viani Barroyeta 
+			
+			
+			Condenação 
+			
+			
+			Arquivamento 
+			
+			
+			Condenação 
+			
+		
+		
+			
+			Bernd Brünig 
+			
+			
+			Arquivamento 
+			
+			
+			Arquivamento 
+			
+			
+			Arquivamento 
+			
+		
+	
 
-PFE/Cade 
-
-MPF/Cade 
-
-Faustino Luigi Minchella 
-
-Condenação 
-
-Condenação 
-
-Condenação 
-
-Jose Angel Viani Barroyeta 
-
-Condenação 
-
-Arquivamento 
-
-Condenação 
-
-Bernd Brünig 
-
-Arquivamento 
-
-Arquivamento 
-
-Arquivamento 
 
  
 
 DO MÉRITO 
 
-Ponderações sobre o Padrão Probatório e a Necessidade de Corroboração  
+
+	
+	Ponderações sobre o Padrão Probatório e a Necessidade de Corroboração  
+	
+
 
  
 
@@ -287,7 +360,11 @@ A questão sobre corroboração de relatos também foi expressamente abordada pe
 
 Com isto em mente, e reconhecendo a necessidade de o Tribunal do Cade buscar, sempre que possível, o respeito a seus precedentes, revestindo a atividade da autoridade de maior previsibilidade e segurança jurídica, seguirei, na análise dos elementos de prova do presente caso, as diretrizes propostas no caso do Cartel de Hidrômetros.
 
-Individualização das Condutas e das Provas de cada Representado 
+
+	
+	Individualização das Condutas e das Provas de cada Representado 
+	
+
 
 a)Faustino Luigi Minchella 
 
@@ -297,117 +374,206 @@ Todos os elementos probatórios colacionados aos autos como comprovação da par
 
  
 
-Número 
 
-Elemento Probatório 
+	
+		
+			
+			Número 
+			
+			
+			Elemento Probatório 
+			
+			
+			Origem 
+			
+			
+			Descrição 
+			
+		
+		
+			
+			1 
+			
+			
+			E-mail de 05/12/2007 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mail que menciona o nome de Minchella como participante de reunião agendada em 13/12/07 com Claus Hoppen da Mahle. 
+			
+		
+		
+			
+			2 
+			
+			
+			E-mail de 17/01/2008 
+			
+			
+			TCC firmado entre o Cade e a empresa KSPG 
+			
+			
+			E-mail enviado a Minchella por José Ademir de Souza (Gerente de Vendas da KSPG) sobre possível cooperação com a Federal Mogul no aftermarket. 
+			
+		
+		
+			
+			3 
+			
+			
+			E-mail de 24/03/2008 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			Agendamento de reunião para o dia 02/04/08 entre Minchella e representantes da Mahle. 
+			
+		
+		
+			
+			4 
+			
+			
+			E-mail de 07/04/2008 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mail detalhando os temas debatidos na reunião do dia 02/04/08. É expressamente mencionado que a análise concorrencial dos termos discutidos não seria colocada em ata. 
+			
+		
+		
+			
+			5 
+			
+			
+			E-mail de janeiro de 2009 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			Troca de e-mails entre representantes da Mahle em que se menciona o nome de Minchella. 
+			
+		
+		
+			
+			6 
+			
+			
+			E-mail de 25/03/2009 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			Pauta de reunião entre os Srs. Claus, Edvaldo e Antonio (Mahle) e Lipay, Minchella e Leandro (KSPG). Da pauta constava o tópico "fornecimento" e uma lista de peças automotivas. 
+			
+		
+		
+			
+			7 
+			
+			
+			E-mail de 27/03/2009 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mail encaminhado a Minchella com diferenças de preços entre Mahle e KSPG. Compartilhamento de listas de preços e tabela comparativa entre as empresas. 
+			
+		
+		
+			
+			8 
+			
+			
+			E-mail de 27/04/2009 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mail encaminhado a Minchella pela MML afirmando que os preços da KSPG estavam cerca de 25% menores que os da MML, contrariando informação compartilhada em reunião. 
+			
+		
+		
+			
+			9 
+			
+			
+			E-mail de 12/05/2009 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mails internos entre representantes da MML indicando que a KSPG não estaria cumprindo os acordos de preços e a necessidade de entrar em contato com Minchella. 
+			
+		
+		
+			
+			10 
+			
+			
+			E-mail de 25/05/2009 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mail interno da MML sobre agendamento de reunião com Minchella para debater possível aumento de preços. 
+			
+		
+		
+			
+			11 
+			
+			
+			E-mail de 15/06/2009 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mail enviado a Minchella confirmando reunião com representantes da MML. 
+			
+		
+		
+			
+			12 
+			
+			
+			E-mail de 10/02/2010 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			Menção ao nome de Minchella em e-mail interno de representantes da MML. 
+			
+		
+		
+			
+			13 
+			
+			
+			E-mail de 01/03/2010 
+			
+			
+			Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
+			
+			
+			E-mail atestando contatos telefônicos entre participantes de empresas concorrentes e a ciência de Minchella sobre tais comunicações. 
+			
+		
+	
 
-Origem 
-
-Descrição 
-
-1 
-
-E-mail de 05/12/2007 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mail que menciona o nome de Minchella como participante de reunião agendada em 13/12/07 com Claus Hoppen da Mahle. 
-
-2 
-
-E-mail de 17/01/2008 
-
-TCC firmado entre o Cade e a empresa KSPG 
-
-E-mail enviado a Minchella por José Ademir de Souza (Gerente de Vendas da KSPG) sobre possível cooperação com a Federal Mogul no aftermarket. 
-
-3 
-
-E-mail de 24/03/2008 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-Agendamento de reunião para o dia 02/04/08 entre Minchella e representantes da Mahle. 
-
-4 
-
-E-mail de 07/04/2008 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mail detalhando os temas debatidos na reunião do dia 02/04/08. É expressamente mencionado que a análise concorrencial dos termos discutidos não seria colocada em ata. 
-
-5 
-
-E-mail de janeiro de 2009 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-Troca de e-mails entre representantes da Mahle em que se menciona o nome de Minchella. 
-
-6 
-
-E-mail de 25/03/2009 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-Pauta de reunião entre os Srs. Claus, Edvaldo e Antonio (Mahle) e Lipay, Minchella e Leandro (KSPG). Da pauta constava o tópico "fornecimento" e uma lista de peças automotivas. 
-
-7 
-
-E-mail de 27/03/2009 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mail encaminhado a Minchella com diferenças de preços entre Mahle e KSPG. Compartilhamento de listas de preços e tabela comparativa entre as empresas. 
-
-8 
-
-E-mail de 27/04/2009 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mail encaminhado a Minchella pela MML afirmando que os preços da KSPG estavam cerca de 25% menores que os da MML, contrariando informação compartilhada em reunião. 
-
-9 
-
-E-mail de 12/05/2009 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mails internos entre representantes da MML indicando que a KSPG não estaria cumprindo os acordos de preços e a necessidade de entrar em contato com Minchella. 
-
-10 
-
-E-mail de 25/05/2009 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mail interno da MML sobre agendamento de reunião com Minchella para debater possível aumento de preços. 
-
-11 
-
-E-mail de 15/06/2009 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mail enviado a Minchella confirmando reunião com representantes da MML. 
-
-12 
-
-E-mail de 10/02/2010 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-Menção ao nome de Minchella em e-mail interno de representantes da MML. 
-
-13 
-
-E-mail de 01/03/2010 
-
-Acordo de Leniência n. 19/2017 - Histórico da Conduta Principal 
-
-E-mail atestando contatos telefônicos entre participantes de empresas concorrentes e a ciência de Minchella sobre tais comunicações. 
 
  
 
@@ -487,13 +653,29 @@ Uma outra menção foi feita ao nome de Brünig no âmbito TCC firmado entre o C
 
 O segundo elemento de prova diz respeito à suposta ocorrência de ligações telefônicas entre Bernd Brünig e José Ademir de Souza, diretor de vendas e marketing da KSPG. As afirmações foram feitas no âmbito do TCC celebrado entre Souza e o Cade (SEI 0661015). Ainda, Souza apresentou anotações manuscritas sobre as supostas ligações. De acordo com Souza, as ligações discutiram os seguintes temas:  
 
-Cotação de pistões para o motor K4M. As anotações de Souza refletiram os preços praticados pela Federal Mogul; 
 
-Cotação de preços da Ford e discussão de estratégia de preços que deveriam ser cotados. As anotações indicariam que a Federal Mogul teria sinalizado à KSPG que iria protegê-la na cotação.  
+	
+	Cotação de pistões para o motor K4M. As anotações de Souza refletiram os preços praticados pela Federal Mogul; 
+	
 
-Discussão de projeto da Volkswagen para motores 1.4. Referido projeto seria de preferência da Federal Mogul. As anotações indicariam os valores cotados pela Federal Mogul e que serviriam como premissas para que a KSPG pudesse elaborar uma proposta de cobertura. 
 
-Anotações supostamente realizadas por José Ademir de Souza durante reunião telefônica com Brünig, que teve por objetivo discutir cotação relacionada a pistões para motores 1.0L e 1.6L. 
+
+	
+	Cotação de preços da Ford e discussão de estratégia de preços que deveriam ser cotados. As anotações indicariam que a Federal Mogul teria sinalizado à KSPG que iria protegê-la na cotação.  
+	
+
+
+
+	
+	Discussão de projeto da Volkswagen para motores 1.4. Referido projeto seria de preferência da Federal Mogul. As anotações indicariam os valores cotados pela Federal Mogul e que serviriam como premissas para que a KSPG pudesse elaborar uma proposta de cobertura. 
+	
+
+
+
+	
+	Anotações supostamente realizadas por José Ademir de Souza durante reunião telefônica com Brünig, que teve por objetivo discutir cotação relacionada a pistões para motores 1.0L e 1.6L. 
+	
+
 
 Como se percebe, os dois elementos de prova apresentados com o objetivo de atestar a suposta participação de Bernd Brünig na prática anticompetitiva em comento foram produzidos de maneira unilateral por leniente ou compromissário de TCC. Não há qualquer outro elemento adicional capaz de corroborar as afirmações trazidas aos autos. O mero agendamento de reunião, sem indicação dos temas que foram debatidos ou sobre as pessoas que efetivamente participaram da reunião, possui valor probatório extremamente baixo, conforme afirmado acima.  
 
@@ -507,7 +689,11 @@ No caso específico de Bernd Brünig, entendo que não há qualquer outro elemen
 
 Nesse sentido, seguindo o entendimento da SG/Cade, PFE/Cade e MPF/Cade, voto pelo arquivamento do processo administrativo em face de Bernd Brünig. 
 
-Da Dosimetria do Valor das Sanções Pecuniárias 
+
+	
+	Da Dosimetria do Valor das Sanções Pecuniárias 
+	
+
 
 Para adequar a dosimetria do presente caso à metodologia de ability to pay, nos termos da jurisprudência deste Tribunal[12] , este Gab-1, em 02.04.2024, expediu ofício à Receita Federal do Brasil (SEI 1368509) solicitando dados constantes da Declaração de Imposto de Renda dos Representados José Angel Viani Barroyeta e Faustino Luigi Minchella, nos últimos 5 (cinco) anos. 
 
@@ -645,14 +831,11 @@ ____________________________
 
 [16] Atualização entre março/2019 (mês de celebração do TCC) e abril/2024 (mês imediatamente anterior ao julgamento do processo administrativo).
 
- 
 
  
 
  
-
+ 
  
 
 
-
-Referência: Processo nº 08700.004558/2019-05	SEI nº 1390607
